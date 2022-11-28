@@ -1,2 +1,2 @@
-# NuovaRepo
-Descrizione
+# Lista spesa
+Conterrà la lista della spesa
